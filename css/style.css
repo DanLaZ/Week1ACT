@@ -7,6 +7,7 @@ body {
 
 }
 
+css
 body {
     margin: 0;
 
@@ -21,8 +22,6 @@ h1 {
     color:#eee;
 
     font-size: 28px;
-
-    align-content: center
 }
 
 h2 {
@@ -34,4 +33,6 @@ h2 {
 }
 
 
-#main-bio {align-content:center}
+.main-bio {float: left}
+.contact-info {float: left}
+.bio-imagine {float: left}
